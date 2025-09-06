@@ -2,7 +2,7 @@
 
 This week, I literally locked myself into going to the gym four days in a row. How? By using a __technical__ [Commitment Device](https://en.wikipedia.org/wiki/Commitment_device).
 
-[Screenshot](https://github.com/772/772.github.io/blob/main/img/486460949-5a866de9-fdcd-4dd0-845f-374410311715.png)
+![Screenshot](https://raw.githubusercontent.com/772/772.github.io/refs/heads/main/img/486460949-5a866de9-fdcd-4dd0-845f-374410311715.png)
 
 I used to do these four steps:
 
