@@ -1,4 +1,4 @@
-## Forcing myself to go to the Gym via a technical commitment device
+## Forcing yourself to go to the Gym via a technical commitment device
 
 This week, I literally locked myself into going to the gym four days in a row. How? By using a __technical__ [Commitment Device](https://en.wikipedia.org/wiki/Commitment_device).
 
