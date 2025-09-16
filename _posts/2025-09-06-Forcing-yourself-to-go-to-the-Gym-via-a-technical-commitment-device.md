@@ -15,6 +15,6 @@ I used to do these four steps:
 
 ![Screenshot](https://raw.githubusercontent.com/772/772.github.io/refs/heads/main/img/486461143-643ae9a7-42d1-4b93-9e32-7a3d2855cdbc.png)
 
-Since I never took a picture of the QR code and I had no control over the pwpush server (which automatically deletes the chunks after viewing), I had absolutely no choice. I had to go. And since I was already there, 90% of the mental battle was won—so I ended up working out every time. Excuses like "I'm too tired" or "I don't have time" were completely eliminated by the system.
+Since I never took a picture of the QR code and I had no control over the pwpush server (which automatically deletes the chunks after time), I had absolutely no choice. I had to go. And since I was already there, 90% of the mental battle was won—so I ended up working out every time. Excuses like "I'm too tired" or "I don't have time" were completely eliminated by the system.
 
 Does this whole thing sound a little exaggerated? It absolutely is! But that’s the __nature__ of a true commitment device. It’s designed to remove willpower from the equation.
